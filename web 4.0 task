@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>The Evolution of the Internet: Web 1.0 to Web 4.0</title>
+</head>
+
+<body>
+  <h1>WHAT IS WEB 4.0?</h1>
+  
+  <h2>The Evolution of Internet, from the Beginning to Web 4.0</h2>
+  
+  <h2>Web 1.0 - The Beginning</h2>
+  <p>At the beginning, there was what we now call Web 1.0, back then simply named as the web. The first websites, portals, and online services were developed, and users could only read information without the chance of direct interaction. It was the web of one-way communication.</p>
+  
+  <h2>Web 2.0 - The Interactive Web</h2>
+  <p>Then came Web 2.0, with the emergence and proliferation of social networks, blogs, forums, and podcasts. These innovations made new forms of participative communication possible. Users started to communicate with each other and share content through the web, helping to generate the content itself. From a passive actor, the user became the lead in the creation and management of online content, building new processes and dynamics in what we can call the collaborative web.</p>
+  
+  <h2>Web 3.0 - The Intelligent Web</h2>
+  <p>Web 3.0 was first mentioned in 2006, characterized more by a series of factors than by a particular technology. The watchword is connection.</p>
+  <ul>
+    <li><strong>Semantic Web:</strong> A virtual environment in which information and data are connected and organized so that they can be processed automatically. In short, a web where machines read and interpret content.</li>
+    <li><strong>Artificial Intelligence:</strong> Technologies based on AI that can interact with users in an almost human way.</li>
+    <li><strong>Enhanced Web:</strong> The web is considered the most influential communication channel, surpassing all previous media.</li>
+    <li><strong>Merger of Poles:</strong> The distinction between users and the web disappears, merging into a continuous process of co-creation.</li>
+    <li><strong>3D Web:</strong> The transformation of the web into three-dimensional environments, following concepts like “Second Life.”</li>
+    <li><strong>Web as Database:</strong> The web serves as a vast database, improving online searches and application capabilities.</li>
+  </ul>
+  <p>All these factors contribute to Web 3.0 being an era in which the internet deeply integrates into our daily lives, ensuring constant connectivity anytime and anywhere.</p>
+  
+  <h2>Web 4.0 - The Future</h2>
+  <p>Recently, discussions about Web 4.0 have emerged, along with predictions for its future. In the next stage of web technologies, augmented reality and Big Data will play a major role. It is anticipated that people will have digital alter egos and will interact more with new interfaces such as intelligent machines. There is also a dystopian vision where increased control over information will not only affect the digital world but also impact reality.</p>
+  
+  <h3>Stay Ahead with Our Cloud Solutions</h3>
+  <p>Want to keep up with the evolving web? Reserve your free consultation with our experts today!</p>
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
